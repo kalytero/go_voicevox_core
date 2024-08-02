@@ -1,3 +1,3 @@
-module voicevox_core
+module voicevox
 
 go 1.22.5
